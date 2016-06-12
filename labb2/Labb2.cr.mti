@@ -1,0 +1,64 @@
+C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/mux21.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/mux21.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package NUMERIC_BIT
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux21
+-- Compiling architecture Behavioral of mux21
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/alu_testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/alu_testbench.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU_TB
+-- Compiling architecture BEHAVIORAL of ALU_TB
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/alu_wRCA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/alu_wRCA.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_wRCA
+-- Compiling architecture dataflow of alu_wRCA
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/RCA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/RCA.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RCA
+-- Compiling architecture dataflow of RCA
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/mux41.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/mux41.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux41
+-- Compiling architecture behavioral of mux41
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/FA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/FA.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA
+-- Compiling architecture dataflow of FA
+
+} {} {}} C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/CMP.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb2/CMP.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CMP
+-- Compiling architecture dataflow of CMP
+
+} {} {}}

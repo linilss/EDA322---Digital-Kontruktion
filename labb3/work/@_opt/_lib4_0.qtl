@@ -1,0 +1,231 @@
+R3
+!i10b 1
+R4
+R5
+8vhdl_src/vital2000/timing_b_2000.vhd
+Fvhdl_src/vital2000/timing_b_2000.vhd
+l0
+L49
+VKEim8d[eJ5dE^:mEG0P3S0
+!s100 KEim8d[eJ5dE^:mEG0P3S0
+R10
+R11
+!s90 -debug|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/timing_b_2000.vhd|
+!s107 vhdl_src/vital2000/timing_b_2000.vhd|
+!i113 1
+R96
+R15
+R23
+m255
+K4
+z2
+!s8c locked
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+d/u/qa/buildsites/10.4p/builds/linux/modeltech
+Penv
+32
+b1
+Z0 !s110 1437365699
+!i10b 1
+Z1 OL;C;10.4c;61
+Z2 OP;C;10.4c;61
+Z3 w1437363445
+Z4 d$MODEL_TECH/..
+Z5 8vhdl_src/std/env.vhd
+Z6 Fvhdl_src/std/env.vhd
+l0
+L1
+Vd?`1ck@NdeD@H3RZG7FgZ2
+!s100 d?`1ck@NdeD@H3RZG7FgZ2
+Z7 OE;C;10.4c;61
+Z8 !s108 1437365699.000000
+Z9 !s90 -debug|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/env.vhd|
+Z10 !s107 vhdl_src/std/env.vhd|
+!i113 1
+Z11 o-debug -work std -dirpath {$MODEL_TECH/..}
+Z12 tExplicit 1
+Bbody
+DPx4 work 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+32
+R0
+!i10b 1
+R1
+R2
+l0
+L15
+VGO=IeNa]6JLe2BRN4G<kA2
+!s100 GO=IeNa]6JLe2BRN4G<kA2
+R7
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Z13 nbody
+Pstandard
+33
+R0
+!i10b 1
+R1
+R2
+R3
+R4
+8vhdl_src/std/standard.vhd
+Fvhdl_src/std/standard.vhd
+l0
+L8
+VofRa6alAEoSE^5WcJ^O]C2
+!s100 ofRa6alAEoSE^5WcJ^O]C2
+R7
+R8
+!s90 -debug|-s|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/standard.vhd|
+!s107 vhdl_src/std/standard.vhd|
+!i113 1
+o-debug -s -2008 -work std -dirpath {$MODEL_TECH/..}
+R12
+Ptextio
+33
+b1
+R0
+!i10b 1
+R1
+R2
+Z14 w1424892841
+R4
+Z15 8vhdl_src/std/textio.vhd
+Z16 Fvhdl_src/std/textio.vhd
+l0
+L1
+VzE1`LPoLg^DX3Oz^4Fj1K3
+!s100 zE1`LPoLg^DX3Oz^4Fj1K3
+R7
+R8
+Z17 !s90 -debug|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/textio.vhd|
+Z18 !s107 vhdl_src/std/textio.vhd|
+!i113 1
+Z19 o-debug -2008 -work std -dirpath {$MODEL_TECH/..}
+R12
+Bbody
+DPx4 work 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+33
+R0
+!i10b 1
+R1
+R2
+l0
+L186
+VOBFf4Pj<FG4ZXfzD:k]VN1
+!s100 OBFf4Pj<FG4ZXfzD:k]VN1
+R7
+R8
+R17
+R18
+!i113 1
+R19
+R12
+R13
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.4c/examples
+T_opt
+!s110 1455020756
+VD?>=]j9Hb8Z>7oTQQP^B]2
+04 9 8 work mem_array dataflow 1
+=1-989096c62212-56b9dad4-304-10bc
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4c;61
+Emem_array
+Z0 w1455020742
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dZ:/eda322/labb3
+Z5 8Z:\eda322\labb3\mem_array.vhd
+Z6 FZ:\eda322\labb3\mem_array.vhd
+l0
+L8
+V:Fa0VCJ6mJGRgDhm>_?6:0
+!s100 `4@AmCm85^FZZKL7D^di93
+Z7 OL;C;10.4c;61
+32
+Z8 !s110 1455020747
+!i10b 1
+Z9 !s108 1455020747.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|Z:\eda322\labb3\mem_array.vhd|
+Z11 !s107 Z:\eda322\labb3\mem_array.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Adataflow
+R1
+R2
+R3
+DEx4 work 9 mem_array 0 22 :Fa0VCJ6mJGRgDhm>_?6:0
+l40
+L21
+VA[CV_iak99dMl9NY0jAQR3
+!s100 g3zaCYkm5GD>>1lJ3KmjB3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Ereg
+Z14 w1455020559
+R2
+R3
+R4
+Z15 8Z:\eda322\labb3\reg.vhd
+Z16 FZ:\eda322\labb3\reg.vhd
+l0
+L5
+V?FVQCUm>zG@R[zcn>o4^I1
+!s100 behL]bmF8fQQgBQVY@hda0
+R7
+32
+Z17 !s110 1455020643
+!i10b 1
+Z18 !s108 1455020643.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|Z:\eda322\labb3\reg.vhd|
+Z20 !s107 Z:\eda322\labb3\reg.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 3 reg 0 22 ?FVQCUm>zG@R[zcn>o4^I1
+l18
+L16
+VC2_Q2nU]b2HJmX5MVccZC1
+!s100 hjS4LoP`ODz`onFGchjl]2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R12
+R13

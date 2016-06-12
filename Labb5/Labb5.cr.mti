@@ -1,0 +1,116 @@
+Z:/eda322/Labb5/procController.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/procController.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity procController
+-- Compiling architecture Behavioral of procController
+
+} {} {}} Z:/eda322/Labb5/EDA322_processor.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/EDA322_processor.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity EDA322_processor
+-- Compiling architecture dataflow of EDA322_processor
+-- Loading entity RCA
+-- Loading package NUMERIC_BIT
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity mux21
+-- Loading entity reg
+-- Loading entity mem_array
+-- Loading entity alu_wRCA
+-- Loading entity procController
+-- Loading entity procBus
+
+} {} {}} Z:/eda322/Labb5/EDA322Testbench.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/EDA322Testbench.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity EDA322Testbench
+-- Compiling architecture Behavioral of EDA322Testbench
+
+} {} {}} Z:/eda322/Labb5/mem_array.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/mem_array.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mem_array
+-- Compiling architecture dataflow of mem_array
+
+} {} {}} Z:/eda322/Labb5/mux21.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/mux21.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package NUMERIC_BIT
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux21
+-- Compiling architecture Behavioral of mux21
+
+} {} {}} Z:/eda322/Labb5/reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/reg.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture dataflow of reg
+
+} {} {}} Z:/eda322/Labb5/FA.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/FA.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA
+-- Compiling architecture dataflow of FA
+
+} {} {}} Z:/eda322/Labb5/mux41.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/mux41.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux41
+-- Compiling architecture behavioral of mux41
+
+} {} {}} Z:/eda322/Labb5/CMP.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none Z:/eda322/Labb5/CMP.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CMP
+-- Compiling architecture dataflow of CMP
+
+} {} {}} Z:/eda322/Labb5/procBus.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/procBus.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity procBus
+-- Compiling architecture dataflow of procBus
+
+} {} {}} Z:/eda322/Labb5/RCA.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/RCA.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RCA
+-- Compiling architecture dataflow of RCA
+
+} {} {}} Z:/eda322/Labb5/alu_wRCA.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none Z:/eda322/Labb5/alu_wRCA.vhd
+QuestaSim-64 vcom 10.4c Compiler 2015.07 Jul 20 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_wRCA
+-- Compiling architecture dataflow of alu_wRCA
+
+} {} {}}

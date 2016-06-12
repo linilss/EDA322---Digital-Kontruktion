@@ -1,0 +1,488 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.4c/examples
+T_opt
+!s110 1455020756
+VD?>=]j9Hb8Z>7oTQQP^B]2
+04 9 8 work mem_array dataflow 1
+=1-989096c62212-56b9dad4-304-10bc
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4c;61
+R0
+T_opt1
+!s110 1455024005
+VXP6f4<P^_9M]dV?IG:LR<1
+04 7 8 work procbus dataflow 1
+=1-989096c62212-56b9e785-98-fa4
+R1
+n@_opt1
+R2
+R0
+T_opt2
+!s110 1455032667
+V00TCS?@CPL5hHm?iNdW8<0
+04 3 8 work reg dataflow 1
+=1-989096c62212-56ba095b-26a-1344
+R1
+n@_opt2
+R2
+R0
+Ealu_wrca
+Z3 w1457440200
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3
+Z7 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/alu_wRCA.vhd
+Z8 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/alu_wRCA.vhd
+l0
+L5
+VgUlMDX1j>dNBRk6ADi^DV1
+!s100 _;o3Zg7eh1n4EHQl3LY[31
+Z9 OV;C;10.4b;61
+32
+Z10 !s110 1457459394
+!i10b 1
+Z11 !s108 1457459393.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/alu_wRCA.vhd|
+Z13 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/alu_wRCA.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1
+Adataflow
+R4
+R5
+Z16 DEx4 work 8 alu_wrca 0 22 gUlMDX1j>dNBRk6ADi^DV1
+l39
+L13
+Vk427R=5=LJdBlK0mNlkOn1
+!s100 O?7@8ml_=[ID@L4:KAl5M0
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ecmp
+R3
+R4
+R5
+R6
+Z17 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/CMP.vhd
+Z18 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/CMP.vhd
+l0
+L5
+V?Wom4U?K_DcCd>H^9Zdm?0
+!s100 TIC6X5?gMm04g^k@DgM1H1
+R9
+33
+R10
+!i10b 1
+Z19 !s108 1457459394.000000
+Z20 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/CMP.vhd|
+Z21 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/CMP.vhd|
+!i113 1
+Z22 o-work work -2008 -explicit
+R15
+Adataflow
+R4
+R5
+DEx4 work 3 cmp 0 22 ?Wom4U?K_DcCd>H^9Zdm?0
+l15
+L13
+VR^?FdA6eCgPC0GFm^46Nk3
+!s100 ^LEAzBLLlail68A`W@gVj3
+R9
+33
+R10
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R22
+R15
+Eeda322_processor
+Z23 w1457440140
+Z24 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R4
+R5
+R6
+Z25 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/EDA322_processor.vhd
+Z26 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/EDA322_processor.vhd
+l0
+L6
+VbJUeVjjI@=DOHkb31mXnM0
+!s100 cJ2d`n8[gFAYI^d3Ze;6l1
+R9
+32
+R10
+!i10b 1
+R19
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/EDA322_processor.vhd|
+Z28 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/EDA322_processor.vhd|
+!i113 1
+R14
+R15
+Adataflow
+Z29 DEx4 work 7 procbus 0 22 [W6<fXLhfmg8hQofJTf:C3
+Z30 DEx4 work 14 proccontroller 0 22 z_^X?RA=c_Q^7n=R;7?8>3
+R16
+Z31 DEx4 work 9 mem_array 0 22 :Fa0VCJ6mJGRgDhm>_?6:0
+Z32 DEx4 work 3 reg 0 22 @ZO`c9Ck>C5`J:I75IZfa2
+Z33 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z34 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z35 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
+Z36 DEx4 work 5 mux21 0 22 QTQN4EQCLaaC0HO>BIf_O0
+Z37 DEx4 work 3 rca 0 22 0N@?OgVcbZD4Q2j4<=J^F1
+R24
+R4
+R5
+DEx4 work 16 eda322_processor 0 22 bJUeVjjI@=DOHkb31mXnM0
+l36
+L27
+VU2fbjb4KO:d?KU;YT^iRJ3
+!s100 jeBS6`Eo^zo?[[jlRXXIz0
+R9
+32
+R10
+!i10b 1
+R19
+R27
+R28
+!i113 1
+R14
+R15
+Efa
+R23
+R4
+R5
+R6
+Z38 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/FA.vhd
+Z39 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/FA.vhd
+l0
+L5
+V_08SY:FK0hUNbDIRBi[J:2
+!s100 odVJa`@AkjbV`5_RF4jPN3
+R9
+32
+Z40 !s110 1457459395
+!i10b 1
+R19
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/FA.vhd|
+Z42 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/FA.vhd|
+!i113 1
+R14
+R15
+Adataflow
+R4
+R5
+DEx4 work 2 fa 0 22 _08SY:FK0hUNbDIRBi[J:2
+l16
+L14
+VgaX7Kn]JA=EaL]P4=GWlO1
+!s100 4XLPe_lbjCccoIe6XTTRC1
+R9
+32
+R40
+!i10b 1
+R19
+R41
+R42
+!i113 1
+R14
+R15
+Emem_array
+R23
+R24
+R4
+R5
+R6
+Z43 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mem_array.vhd
+Z44 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mem_array.vhd
+l0
+L8
+V:Fa0VCJ6mJGRgDhm>_?6:0
+!s100 `4@AmCm85^FZZKL7D^di93
+R9
+32
+R40
+!i10b 1
+Z45 !s108 1457459395.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mem_array.vhd|
+Z47 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mem_array.vhd|
+!i113 1
+R14
+R15
+Adataflow
+R24
+R4
+R5
+R31
+l40
+L21
+VikA]Zd`PCg`c;KFJfh9Zz0
+!s100 o[g<5O9ECM`HTf2jS;9PC3
+R9
+32
+R40
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R14
+R15
+Emux21
+R23
+R33
+R34
+R35
+R24
+R4
+R5
+R6
+Z48 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux21.vhd
+Z49 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux21.vhd
+l0
+L10
+VQTQN4EQCLaaC0HO>BIf_O0
+!s100 UU9N06_Y1d=A8RjSMdWbg3
+R9
+32
+R40
+!i10b 1
+R45
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux21.vhd|
+Z51 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux21.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R33
+R34
+R35
+R24
+R4
+R5
+R36
+l19
+L17
+VeZLHVo7EW@F^P0>M37`?U0
+!s100 VfbUQIaVE70l0bnVfS[;51
+R9
+32
+R40
+!i10b 1
+R45
+R50
+R51
+!i113 1
+R14
+R15
+Emux41
+R23
+R4
+R5
+R6
+Z52 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux41.vhd
+Z53 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux41.vhd
+l0
+L5
+Vf]:E:Uc9alHb6lH_a>;o]0
+!s100 SlDP=nfKISooCboN?IQGF0
+R9
+32
+R40
+!i10b 1
+R45
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux41.vhd|
+Z55 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/mux41.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 mux41 0 22 f]:E:Uc9alHb6lH_a>;o]0
+l24
+L13
+V1nQ;^]zkGZ9N@MGzFfbBZ2
+!s100 XSG=iT?Iz[mQ]mlNHjcJA2
+R9
+32
+R40
+!i10b 1
+R45
+R54
+R55
+!i113 1
+R14
+R15
+Eprocbus
+R23
+R4
+R5
+R6
+Z56 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procBus.vhd
+Z57 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procBus.vhd
+l0
+L5
+V[W6<fXLhfmg8hQofJTf:C3
+!s100 _ckgmnI52f6NXDnECgZWC1
+R9
+32
+Z58 !s110 1457459396
+!i10b 1
+Z59 !s108 1457459396.000000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procBus.vhd|
+Z61 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procBus.vhd|
+!i113 1
+R14
+R15
+Adataflow
+R4
+R5
+R29
+l23
+L17
+VWFf?j]SRF_i]i6Qf<;DS>1
+!s100 zIXA2_0f_YmAM@KizS@980
+R9
+32
+R58
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R14
+R15
+Eproccontroller
+Z62 w1455025536
+R4
+R5
+R6
+Z63 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procController.vhd
+Z64 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procController.vhd
+l0
+L4
+Vz_^X?RA=c_Q^7n=R;7?8>3
+!s100 NJ4XlQRf>AKEejUSkc2TX2
+R9
+32
+R58
+!i10b 1
+R59
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procController.vhd|
+Z66 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/procController.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+R30
+l33
+L29
+Vl7HbhjF`]6SOT05T@WAL32
+!s100 QahiV[eRYK^dY6Aad0P8m3
+R9
+32
+R58
+!i10b 1
+R59
+R65
+R66
+!i113 1
+R14
+R15
+Erca
+R23
+R4
+R5
+R6
+Z67 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/RCA.vhd
+Z68 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/RCA.vhd
+l0
+L5
+V0N@?OgVcbZD4Q2j4<=J^F1
+!s100 _RfIl<Ta>KJKnPohTidzA2
+R9
+32
+R58
+!i10b 1
+R59
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/RCA.vhd|
+Z70 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/RCA.vhd|
+!i113 1
+R14
+R15
+Adataflow
+R4
+R5
+R37
+l24
+L13
+Z71 Vo]H4_RX3e[2danj=C[THa1
+Z72 !s100 Ko<PCUgH71MKjOcg@2kA_3
+R9
+32
+R58
+!i10b 1
+R59
+R69
+R70
+!i113 1
+R14
+R15
+Ereg
+R23
+R4
+R5
+R6
+Z73 8C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/reg.vhd
+Z74 FC:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/reg.vhd
+l0
+L5
+V@ZO`c9Ck>C5`J:I75IZfa2
+!s100 2FkK[>`QPEA:U8eA@heMi0
+R9
+32
+Z75 !s110 1457459393
+!i10b 1
+R11
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/reg.vhd|
+Z77 !s107 C:/Users/linus/Dropbox/Projekt/digitalkonstruktion/Labbar/labb3/reg.vhd|
+!i113 1
+R14
+R15
+Adataflow
+R4
+R5
+R32
+l18
+L16
+V<:6gBYE[TRK[N3kc`JRNW1
+!s100 n=hJjdGz<8UMZEPb@e5na2
+R9
+32
+R75
+!i10b 1
+R11
+R76
+R77
+!i113 1
+R14
+R15
